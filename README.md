@@ -1,6 +1,6 @@
 # CRISPR Assay Phylogeny
 
-Visualize gene detection and RPA primer/gRNA sequence variation alongside a midpoint-rooted phylogeny. Evaluates all qualifying BLAST loci per genome and displays the best assay match.
+Visualise gene detection and RPA primer/gRNA sequence variation alongside a midpoint-rooted phylogeny. Evaluates all qualifying BLAST loci per genome and displays the best assay match.
 
 ## Install
 
